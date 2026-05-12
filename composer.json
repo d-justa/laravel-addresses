@@ -1,5 +1,5 @@
 {
-    "name": "vision/laravel-addresses",
+    "name": "d-justa/laravel-addresses",
     "description": "Resuable address logic for Laravel.",
     "type": "library",
     "license": "MIT",
