@@ -8,6 +8,13 @@
             "Vision\\LaravelAddresses\\": "src/"
         }
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Vision\\LaravelAddresses\\AddressServiceProvider"
+            ]
+        }
+    },
     "authors": [
         {
             "name": "Deepanshu Justa",
