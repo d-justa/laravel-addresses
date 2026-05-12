@@ -1,0 +1,24 @@
+{
+    "name": "vision/laravel-addresses",
+    "description": "Resuable address logic for Laravel.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vision\\LaravelAddresses\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Deepanshu Justa",
+            "email": "djusta06@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "orchestra/testbench": "11.x-dev"
+    },
+    "require": {
+        "illuminate/support": "*"
+    }
+}
